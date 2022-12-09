@@ -2,23 +2,21 @@
 Costa Rica Big Data School project
 
 Contains the code and simulation for the Big DATA School 2022 project.
-
 DevBug defines the relevance of Vaccine process in the COVID (SIR Model, The Jerk Joe)
 
 Problem:
-Rate_vaccine analysis
+-Amount_vaccine analysis
 
 Intervention
-
-Create attribute to person (rate_vaccine)
-Calculate the ratee_vaccine to each person
-Determine the rate_infection with rate_vaccine
+-Create a attribute to person (vaccine)
+-Calculated the amount_vaccine to each person (0, 1, 2, 3, 4)
+-Determine the rate_mask constraint rate_recuperatio with amount_vaccine
 
 Goals
-- To determine the person's rate vaccine
-- To show the rate_infection of population
+-Determine the person’s vaccine
+-Show the rate_mask constraint rate_recuperatio with amount_vaccine of population
 
 Group participants:
-- Wendy
-- Iyubanit
-- Meyer
+- Meyer Guevara Mora
+- Wendy Ramírez González
+- Iyubanit Rodríguez Ramírez
